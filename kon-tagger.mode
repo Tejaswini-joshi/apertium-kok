@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/annie/annraj/apertium-kon/kon.automorf.bin' | cg-proc -w '/home/annie/annraj/apertium-kon/kon.rlx.bin' 
+  
