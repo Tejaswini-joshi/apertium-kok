@@ -61,11 +61,6 @@ Files and data
 * apertium-kon.post-kon.dix       - Post-generator
 * modes.xml                       - Translation modes
 
-Notes on kon.prob
-===============================================================================
-apertium-eng uses the [perceptron tagger](http://wiki.apertium.org/wiki/Perceptron_tagger),
-so in order for it to work, it needs to be called with -gx: `apertium-tagger -gx kon.prob`
-
 
 For more information
 ===============================================================================
