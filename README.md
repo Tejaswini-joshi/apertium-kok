@@ -1,6 +1,6 @@
-English
+Konkani
 
-                        apertium-eng
+                        apertium-kon
 ===============================================================================
 
 This is an Apertium monolingual language package for Konkani. What you can use this language package for:
