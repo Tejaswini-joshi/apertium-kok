@@ -49,7 +49,7 @@ Testing
 If you are in the source directory after running make, the following
 command should work:
 
-$  echo "TODO: test sentence" | apertium -d . kon-morph
+$  echo "TODO: test sentence" | apertium -d . kok-morph
 TODO: test analysis result
 
 Files and data
