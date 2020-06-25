@@ -1,6 +1,6 @@
 Konkani
 
-                            apertium-kon
+                            apertium-kok
 ===============================================================================
 
 This is an Apertium monolingual language package for Konkani. What
@@ -55,10 +55,10 @@ TODO: test analysis result
 Files and data
 ===============================================================================
 
-* apertium-kon.kon.dix            - Monolingual dictionary
-* kon.prob                        - Tagger model
-* apertium-kon.kon.rlx            - Constraint Grammar disambiguation rules
-* apertium-kon.post-kon.dix       - Post-generator
+* apertium-kok.kok.dix            - Monolingual dictionary
+* kok.prob                        - Tagger model
+* apertium-kok.kok.rlx            - Constraint Grammar disambiguation rules
+* apertium-kok.post-kok.dix       - Post-generator
 * modes.xml                       - Translation modes
 
 
