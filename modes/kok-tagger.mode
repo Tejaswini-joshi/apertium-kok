@@ -1,0 +1,6 @@
+
+      
+    lt-proc -w '/home/apertium/apertium-kok/kok.automorf.bin' | cg-proc -w '/home/apertium/apertium-kok/kok.rlx.bin' 
+  
+
+  
