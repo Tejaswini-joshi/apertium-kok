@@ -1,0 +1,8 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-kok
+
+Name: apertium-kok
+Description: Finite-state morphological transducer and constraint grammar for Kongo 
+Version: 0.1.0
+
