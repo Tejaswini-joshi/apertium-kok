@@ -66,7 +66,6 @@ For more information
 ===============================================================================
 
 * http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-eng
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
 Help and support
