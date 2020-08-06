@@ -68,6 +68,7 @@ For more information
 * https://github.com/apertium/apertium-kok
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* https://wiki.apertium.org/wiki/Konkani
 
 Help and support
 ===============================================================================
